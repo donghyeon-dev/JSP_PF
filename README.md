@@ -1,4 +1,4 @@
-# JSP WEBPAGE copy BLIZZARD's website
+# JSP WEBPAGE
 
 - Front-end : HTML5, CSS, 
 - Back-end : JAVA, MYSQL
