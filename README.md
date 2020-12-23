@@ -1,7 +1,7 @@
 # JSP WEBPAGE
 
 - Front-end : HTML5, CSS, 
-- Back-end : JAVA, MYSQL
+- Back-end : JAVA
 
 ## Main page
 ![1](https://user-images.githubusercontent.com/53686581/71576672-c4e72d80-2b34-11ea-86f6-b4b055e94b56.JPG)<br>
